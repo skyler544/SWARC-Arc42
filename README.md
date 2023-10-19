@@ -1,0 +1,1 @@
+/home/clock/mega/fh/ws23/swarc/arc42-documentation-project/arc42-template-EN.md
