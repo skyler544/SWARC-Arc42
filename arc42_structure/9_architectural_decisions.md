@@ -1,6 +1,16 @@
-# PayPal integration via library
+# Microservices over Monolith
+* Context  
+Microservices are more future-proof than monolithic applications.
 
-* Context
+* Decision  
+We decided to build microservices in order to maximise the scalability of our application. We are dependent on growth in order to succeed, and our services therefore need to be flexible and scalable.
+
+* Status  
+The stakeholders agreed with the plan; they agree that we need to be as future-proof and scalable as possible.
+
+* Consequences  
+Our core developer team is still relatively small; we're trading initial overhead for eventual scalability.
+
 # PayPal integration via library
 * Context  
 We don't have capacity at the moment to maintain an in-house payment system.
