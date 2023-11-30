@@ -1,9 +1,9 @@
 # Cross-cutting Concepts
 
-### 1. Architecture and Design Patterns
-#### Architecture
-#### Design Patterns
-- SOLID
+### Architecture and Design Patterns
+  1. Architecture
+  2. Design Patterns
+     - SOLID Principles
 
 ### 2. Security & Safety
 #### Security
