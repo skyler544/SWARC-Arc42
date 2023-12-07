@@ -13,8 +13,12 @@
     - Security
     - Accuracy
 - Reliability
-    - Maturity
     - Recoverability
-      -Usability
-    - Operability
+        - The system is able to be restored to a recent state.
+- Usability
     - Learnability
+        - Tips are shown to the user
+    - Understandability
+        - Interfaces for users are easy to understand, precise and concise.
+    - Operability
+        - 
