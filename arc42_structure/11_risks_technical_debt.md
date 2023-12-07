@@ -1,4 +1,4 @@
-[<< Back](/README)
+[<< Back](/README.md)
 
 ## Technical Debt
 
@@ -14,7 +14,7 @@ In reducing code complexity and fast scaling, storage optimazation is not a top 
 
 ## Risks
 
-### Vendor lock at clod services
+### Vendor lock at cloud services
 
 #### Reason 
 
