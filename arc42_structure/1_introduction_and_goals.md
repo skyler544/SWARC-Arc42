@@ -40,11 +40,7 @@ The ISO 25010 standard provides a nice overview of potential topics of interest:
 
 ## 1.3 Stakeholder
 
-### Content
-
-### Motiavtion
-
-### Form
+The table below provides an overview of all stakeholders involved in the M.O.T.U.S project.
 
 | Name          |                                     Role                                     |                                                                     Expectations                                                                     |
 |:--------------|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
