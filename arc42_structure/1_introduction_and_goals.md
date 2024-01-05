@@ -10,6 +10,8 @@ Describes the relevant requirements and the driving forces that software archite
 
 ## 1.1 Requirements Overview
 
+[Use Case Diagram](../materials/use_case_diagram.png)
+
 ### Contents
 
 Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Links to the (hopefully existing) requirements documents, with information where to find it.
