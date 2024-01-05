@@ -30,13 +30,18 @@ Keep these excerpts as short as possible. Balance readability of this document w
 
 ### Content
 
-The top three (max five) quality goals for the architecture whose fulfillment is of highest importance to the major stakeholders. We really mean quality goals for the architecture. Don’t confuse them with project goals. They are not necessarily identical.
+The top three quality goals for the architecture whose fulfillment is of highest importance to the major stakeholders considering the ISO 25010 standard.
 
-The ISO 25010 standard provides a nice overview of potential topics of interest:
+
+| Priority |                    Quality                     |                                                                     Motivation                                                                     |
+|:---------|:----------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
+| 1        | Usability | Userfriendly experience leads to higher user counts                                                 |
+| 2        | Security | Payment services handle sensitive information,therefore a safe environment is required.                               |
+| 3        | Availability | Easy scalability for peak times, therefore efficient use ofinfrastructure resources for cost reduction.                       |
 
 ### Motivation
 
-### Form
+In the ride-sharing app context, addressing usability, security, and availability aligns with the goal of providing a convenient, safe, and reliable transportation service. The app becomes not only a functional tool for connecting passengers with drivers but also a user-friendly and trustworthy platform that meets the diverse needs of its users.
 
 ## 1.3 Stakeholder
 
