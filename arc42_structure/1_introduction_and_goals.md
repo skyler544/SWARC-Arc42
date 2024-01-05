@@ -1,20 +1,10 @@
 [<< Back](/README.md)
 
-# 1. Introdcution and Goals
-
-Describes the relevant requirements and the driving forces that software architects and development team must consider. These include
-
-- underlying business goals, essential features and functional requirements for the system,
-- quality goals for the architecture,
-- relevant stakeholders and their expectations
+# 1. Introduction and Goals
 
 ## 1.1 Requirements Overview
 
 [Use Case Diagram](../materials/use_case_diagram.png)
-
-### Contents
-
-Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Links to the (hopefully existing) requirements documents, with information where to find it.
 
 ### User Registration and Authentication:
 
@@ -40,12 +30,12 @@ Short description of the functional requirements, driving forces, extract (or ab
         Implement algorithms for efficient driver-passenger matching.
         Consider factors such as proximity, driver rating, and user preferences.
 
-### Prize Calculation and Payment:
+### Price Calculation and Payment:
 
     Driving Forces:
         Provide transparent and fair pricing.
         Support various payment methods for user convenience.
-        Prize calculation based on distance and current demand.
+        Price calculation based on distance and current demand.
 
 ### Route Optimization:
 
@@ -58,16 +48,6 @@ Short description of the functional requirements, driving forces, extract (or ab
     Driving Forces:
         Enhance user safety and confidence.
         Enable users to monitor the location of their ride in real-time.
-
-### Motivation
-
-From the point of view of the end users a system is created or modified to improve support of a business activity and/or improve the quality.
-
-### Form
-
-Short textual description, probably in tabular use-case format. If requirements documents exist this overview should refer to these documents.
-
-Keep these excerpts as short as possible. Balance readability of this document with potential redundancy w.r.t to requirements documents. 
 
 ## 1.2 Quality goals
 
