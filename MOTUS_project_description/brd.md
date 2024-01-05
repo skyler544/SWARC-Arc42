@@ -48,8 +48,8 @@ The app will need to compete with existing ride sharing and transportation servi
 ## Sign-off:
 The above requirements have been reviewed and approved by the project stakeholders:
 
-Maryam Patel, Investor at Venture Capital Firm XYZ
-Raj Gupta, Business Development Manager at Local Transportation Authority
-Megan Chen, User Experience Designer at Creative Agency ABC
-Amirah Rahman, RideShare Driver and Representative of RideShare Driver Association
-Javier Gomez, Environmental Activist and Representative of Sustainable Transportation NGO
+Maryam Patel, Investor at Venture Capital Firm XYZ  
+Raj Gupta, Business Development Manager at Local Transportation Authority  
+Megan Chen, User Experience Designer at Creative Agency ABC  
+Amirah Rahman, RideShare Driver and Representative of RideShare Driver Association  
+Javier Gomez, Environmental Activist and Representative of Sustainable Transportation NGO  
