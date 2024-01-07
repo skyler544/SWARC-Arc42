@@ -40,3 +40,20 @@ Accepted after a meeting with the stakeholders; they were of the opinion that us
 
 * Consequences  
 If any problems or incompatibilities between other services and technologies appear, we will have a hard time reimplementing the backend.
+
+# Amazon CloudWatch as Analytics Software
+
+* Context   
+Our cloud provider is AWS and has a vast product variety. Used for monitoring resource usage. 
+
+* Decision  
+For ease of use and fast integration, we stay with Amazon since they are also our cloud provider.
+
+* Status    
+Not fully accepted. Approval missing in reagard of costs and neccessity. There is demand from the development team. 
+
+* Consequence   
+Adds another layer of tasks for our development team.   
+Increase of costs.   
+We are even more dependent on a single provider.        
+Helps gather statistics and numbers not only for developer but also for business partners.
