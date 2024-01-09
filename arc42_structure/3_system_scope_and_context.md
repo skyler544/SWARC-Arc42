@@ -23,6 +23,12 @@ List of stakeholders:
 - Approval center (approve driverss)
 - Payment service
 
+*______________________________*
+
+**Insert UML**
+
+*______________________________*
+
 | Piece     | Purpose |
 | :-------- | :------ |
 | MOTUS | Our service to connect passangers and driver plus a payment service. |
@@ -38,6 +44,12 @@ List of stakeholders:
 - Approval center (approve driverss)
 - Payment service
 - Analytics service 
+
+*______________________________*
+
+**Insert UML**
+
+*______________________________*
 
 | Piece     | Purpose |
 | :-------- | :------ |
