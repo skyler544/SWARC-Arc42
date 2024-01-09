@@ -1,30 +1,53 @@
 [<< Back](/README.md)
 
-# 1. Introdcution and Goals
-
-
-
-Describes the relevant requirements and the driving forces that software architects and development team must consider. These include
-
-- underlying business goals, essential features and functional requirements for the system,
-- quality goals for the architecture,
-- relevant stakeholders and their expectations
+# 1. Introduction and Goals
 
 ## 1.1 Requirements Overview
 
-### Contents
+[Use Case Diagram](../materials/use_case_diagram.png)
 
-Short description of the functional requirements, driving forces, extract (or abstract) of requirements. Links to the (hopefully existing) requirements documents, with information where to find it.
+### User Registration and Authentication:
 
-### Motivation
+    Driving Forces:
+        Ensure security and accountability.
+        Create personalized user experiences.
 
-From the point of view of the end users a system is created or modified to improve support of a business activity and/or improve the quality.
+### Profile Management:
 
-### Form
+    Driving Forces:
+        Allow users to maintain and update personal information.
+        Enable customization of preferences and settings.
 
-Short textual description, probably in tabular use-case format. If requirements documents exist this overview should refer to these documents.
+### Ride Booking:
 
-Keep these excerpts as short as possible. Balance readability of this document with potential redundancy w.r.t to requirements documents. 
+    Driving Forces:
+        Provide a quick and user-friendly process for requesting rides.
+        Offer features such as real-time location tracking and estimated arrival times.
+
+### Driver / User Matching:
+
+    Driving Forces:
+        Implement algorithms for efficient driver-passenger matching.
+        Consider factors such as proximity, driver rating, and user preferences.
+
+### Price Calculation and Payment:
+
+    Driving Forces:
+        Provide transparent and fair pricing.
+        Support various payment methods for user convenience.
+        Price calculation based on distance and current demand.
+
+### Route Optimization:
+
+    Driving Forces:
+        Optimize routes to ensure timely and efficient journeys.
+        Consider factors like traffic, road conditions, and user preferences.
+
+### Real-time Tracking:
+
+    Driving Forces:
+        Enhance user safety and confidence.
+        Enable users to monitor the location of their ride in real-time.
 
 ## 1.2 Quality goals
 
