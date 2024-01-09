@@ -2,6 +2,9 @@
 
 # Deployment View
 
+![Deployment View Diagram](../materials/deployment_view.drawio.png)
+
+---
 
 <table cellspacing="0" cellpadding="6" rules="groups">
   <thead>
