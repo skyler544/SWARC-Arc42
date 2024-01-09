@@ -21,10 +21,6 @@
       <td> Used for security, request aggregation, quality assurance, routing, etc.</td>
     </tr>
     <tr>
-      <td>MOTUS Data Microservice</td>
-      <td>Containerized instance of the main MOTUS data interface</td>
-    </tr>
-    <tr>
       <td>MOTUS Driver Backend</td>
       <td>REST server for the Driver-facing API</td>
     </tr>
