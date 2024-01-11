@@ -23,11 +23,9 @@ List of stakeholders:
 - Approval center (approve driverss)
 - Payment service
 
-*______________________________*
+### Representation
 
-**Insert UML**
-
-*______________________________*
+![A simple business diagram](../materials/simple-business-context.drawio.png)
 
 | Piece     | Purpose |
 | :-------- | :------ |
@@ -46,11 +44,9 @@ List of stakeholders:
 - Payment service
 - Analytics service 
 
-*______________________________*
+### Reprensentation
 
-**Insert UML**
-
-*______________________________*
+![A diagram of the technical context](../materials/technical-context.drawio.png)
 
 | Piece     | Purpose |
 | :-------- | :------ |
