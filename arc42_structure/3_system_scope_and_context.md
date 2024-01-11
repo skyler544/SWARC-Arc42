@@ -1,4 +1,4 @@
-[<< Back](/README.md)
+[<< Back](../README.md)
 
 # Scope and Context
 
@@ -39,6 +39,7 @@ List of stakeholders:
 
 ## Technical Context
 
+List of stakeholders: 
 - App users
 - Developer
 - Approval center (approve driverss)
