@@ -56,11 +56,11 @@
 The top three quality goals for the architecture whose fulfillment is of highest importance to the major stakeholders considering the ISO 25010 standard.
 
 
-| Priority |                    Quality                     |                                                                     Motivation                                                                     |
-|:---------|:----------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------:|
-| 1        | Usability | Userfriendly experience leads to higher user counts                                                 |
-| 2        | Security | Payment services handle sensitive information,therefore a safe environment is required.                               |
-| 3        | Availability | Easy scalability for peak times, therefore efficient use ofinfrastructure resources for cost reduction.                       |
+| Priority |                    Quality                     |                                                Motivation                                                |
+|:---------|:----------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
+| 1        | Usability |                           User-friendly experience leads to higher user counts                           |
+| 2        | Security |         Payment services handle sensitive information, therefore a safe environment is required.         |
+| 3        | Availability | Easy scalability for peak times, therefore efficient use of infrastructure resources for cost reduction. |
 
 ### Motivation
 
@@ -68,13 +68,13 @@ In the ride-sharing app context, addressing usability, security, and availabilit
 
 ## 1.3 Stakeholder
 
-The table below provides an overview of all stakeholders involved in the M.O.T.U.S project.
+The table below provides an overview of all stakeholders involved in the M.O.T.U.S. project.
 
 | Name          |                                     Role                                     |                                                                     Expectations                                                                     |
 |:--------------|:----------------------------------------------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------:|
-| Maryam Patel  |                     Investor at Venture Capital Firm XYZ                     |                                                          Profit, high return of Investment                                                           |
+| Maryam Patel  |                     Investor at Venture Capital Firm XYZ                     |                                                          Profit, high return of investment                                                           |
 | Raj Gupta     |        Business Development Manager at Local Transportation Authority        |                             Expects the startup to contribute positively to the local transportation business landscape                              |
-| Megan Chen    |               User Experience Designer at Creative Agency ABC                |                  Expects the startup to provide a good user experience, and wants to include this success in her agency's portfoli                   |
+| Megan Chen    |               User Experience Designer at Creative Agency ABC                |                  Expects the startup to provide a good user experience, and wants to include this success in her agency's portfolio                  |
 | Amirah Rahman | Environmental Activist and Representative of Sustainable Transportation NGOC | Advocating for eco-friendly and sustainable transportation solutions to mitigate environmental impact and promote a greener, more sustainable future |
 | Javier Gomez  |     RideShare Driver and Representative of RideShare Driver Association      |                           Expects the startup to treat workers fairly and cooperate with the RideShare Driver Association                            |
 | Developers    |                       Design, develop and maintain App                       |                 Clear and refined requirements, environment where developers can focus on their work, deliver high-quality software                  |
