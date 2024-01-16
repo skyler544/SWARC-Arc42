@@ -28,12 +28,9 @@
         - Tips are shown to the user
     - Understandability
         - Interfaces for users are easy to understand, precise and concise.
-    - Operability
-        - 
 
-
-## Quality Scenerios
+## Quality Scenarios
 
 1. Driver accepts a contract. A canceled request is shown in a span of 2-3 seconds. 
 2. User opens the application. All possible routes are shown in under 5 seconds.
-3. The user makes a request that fails. The user is informed about the error and its reason. The Error is shown in under 10 seconds.
+3. The user makes a request that fails. The user is informed about the error and its reason. The error is shown in under 10 seconds.
