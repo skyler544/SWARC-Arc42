@@ -4,7 +4,7 @@
 
 ## 1.1 Requirements Overview
 
-[Use Case Diagram](../materials/use_case_diagram.png)
+![Use Case Diagram](../materials/use_case_diagram.png)
 
 ### User Registration and Authentication:
 

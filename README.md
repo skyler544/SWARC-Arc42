@@ -8,8 +8,8 @@ S. Services
 # Arc 42
 
   1. [Introduction and Goals](arc42_structure/1_introduction_and_goals.md)
-  2. [System Scope and Context](arc42_structure/2_architecture_constraints.md)
-  3. [Architecture Constraints](arc42_structure/3_system_scope_and_context.md)
+  2. [Architecture Constraints](arc42_structure/2_architecture_constraints.md)
+  3. [System Scope and Context](arc42_structure/3_system_scope_and_context.md)
   4. [Solution Strategy](arc42_structure/4_solution_strategy.md)
   5. [Building Block View](arc42_structure/5_building_block_view.md)
   6. [Runtime View](arc42_structure/6_runtime_view.md)
