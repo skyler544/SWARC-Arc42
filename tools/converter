@@ -1,0 +1,3 @@
+#!/bin/bash
+# pandoc "$1" --pdf-engine=wkhtmltopdf -o "$1.pdf"
+pandoc "$1" --pdf-engine=weasyprint -o "$1.pdf"
