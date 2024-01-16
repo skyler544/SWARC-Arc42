@@ -8,46 +8,46 @@
 
 ### User Registration and Authentication:
 
-    Driving Forces:
-        Ensure security and accountability.
-        Create personalized user experiences.
+Driving Forces:
+    Ensure security and accountability.
+    Create personalized user experiences.
 
 ### Profile Management:
 
-    Driving Forces:
-        Allow users to maintain and update personal information.
-        Enable customization of preferences and settings.
+Driving Forces:
+    Allow users to maintain and update personal information.
+    Enable customization of preferences and settings.
 
 ### Ride Booking:
 
-    Driving Forces:
-        Provide a quick and user-friendly process for requesting rides.
-        Offer features such as real-time location tracking and estimated arrival times.
+Driving Forces:
+    Provide a quick and user-friendly process for requesting rides.
+    Offer features such as real-time location tracking and estimated arrival times.
 
 ### Driver / User Matching:
 
-    Driving Forces:
-        Implement algorithms for efficient driver-passenger matching.
-        Consider factors such as proximity, driver rating, and user preferences.
+Driving Forces:
+    Implement algorithms for efficient driver-passenger matching.
+    Consider factors such as proximity, driver rating, and user preferences.
 
 ### Price Calculation and Payment:
 
-    Driving Forces:
-        Provide transparent and fair pricing.
-        Support various payment methods for user convenience.
-        Price calculation based on distance and current demand.
+Driving Forces:
+    Provide transparent and fair pricing.
+    Support various payment methods for user convenience.
+    Price calculation based on distance and current demand.
 
 ### Route Optimization:
 
-    Driving Forces:
-        Optimize routes to ensure timely and efficient journeys.
-        Consider factors like traffic, road conditions, and user preferences.
+Driving Forces:
+    Optimize routes to ensure timely and efficient journeys.
+    Consider factors like traffic, road conditions, and user preferences.
 
 ### Real-time Tracking:
 
-    Driving Forces:
-        Enhance user safety and confidence.
-        Enable users to monitor the location of their ride in real-time.
+Driving Forces:
+    Enhance user safety and confidence.
+    Enable users to monitor the location of their ride in real-time.
 
 ## 1.2 Quality goals
 
