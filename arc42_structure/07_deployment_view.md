@@ -25,11 +25,11 @@
     </tr>
     <tr>
       <td>MOTUS Driver Backend</td>
-      <td>REST server for the Driver-facing API</td>
+      <td>REST server for the driver-facing API</td>
     </tr>
     <tr>
       <td>MOTUS Passenger Backend</td>
-      <td>REST server for the Passenger-facing API</td>
+      <td>REST server for the passenger-facing API</td>
     </tr>
     <tr>
       <td>MOTUS Logistic Service</td>

@@ -8,4 +8,4 @@
 - MOTUS must respect data protection and privacy laws.
 - MOTUS will be subject to local regulations and legal requirements, which may impact its availability and functionality in certain areas.
 - MOTUS will require ongoing maintenance and support to ensure optimal performance and user experience.
-- MOTUS will need to compete with existing ride sharing and transportation services in the market.
+- MOTUS will need to compete with existing ride-sharing and transportation services in the market.

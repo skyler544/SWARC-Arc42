@@ -2,36 +2,36 @@
 
 ## Technical Debt
 
-### Performance optimization in terms of storage.
+### Performance Optimization
 
 #### Reason
 
-In reducing code complexity and fast scaling, storage optimazation is not a top priority.
+In reducing code complexity and fast scaling, storage optimization is not a top priority.
 
-#### Reduction Efforts
+#### Reduction efforts
 
-- Reducing non critical redundency.
+- Reducing non critical redundancy.
 
 ## Risks
 
-### Vendor lock at cloud services
+### Vendor Lock-in 
 
 #### Reason 
 
-In Reducing complexity and cutting cost at the team, only one cloud provider is chosen. Self hosting is no option. Only one expert at cloud computing is needed to build our product.
+In reducing complexity and cutting cost at the team, only one cloud provider is chosen. Self hosting is not an option. Only one expert in cloud computing is needed to build our product.
 
-#### Mitigation Efforts
+#### Mitigation efforts
 
 - Keep a clear structure of our services. 
 - Do stuff in house rather than using all services of the cloud provider.
 
-### Version issues
+### Version Issues
 
 #### Reason
 
-Complex versioning arises in the microservice architecture. All services need to stay compatible with eachother and on many differnt devices. 
+Complex versioning arises in the microservice architecture. All services need to stay compatible with each other and on many different devices. 
 
 #### Mitigation Efforts
 
-- Hold on to versioning conventions tightly.
-- Keep track of versioning centralized.
+- Strict adherence to versioning conventions.
+- Centralized version tracking.
